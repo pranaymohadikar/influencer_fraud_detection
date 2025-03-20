@@ -1,0 +1,79 @@
+2025-02-01 22:45:21,083 - INFO - Starting feature enginnering
+2025-02-01 22:45:21,174 - INFO - Creating engagement_rate
+2025-02-01 22:45:21,177 - INFO - Creating follower_growth_rate
+2025-02-01 22:45:21,180 - INFO - Creating suspicious_comment_ratio
+2025-02-01 22:45:21,186 - INFO - generating labels for the data, 
+2025-02-01 22:45:21,186 - ERROR -  Error found during processing: string indices must be integers
+2025-02-01 22:46:43,987 - INFO - Starting feature enginnering
+2025-02-01 22:46:44,067 - INFO - Creating engagement_rate
+2025-02-01 22:46:44,070 - INFO - Creating follower_growth_rate
+2025-02-01 22:46:44,071 - INFO - Creating suspicious_comment_ratio
+2025-02-01 22:46:44,122 - INFO - generating labels for the data, 
+2025-02-01 22:46:44,126 - ERROR -  Error found during processing: 'str' object does not support item assignment
+2025-02-01 22:47:34,401 - INFO - Starting feature enginnering
+2025-02-01 22:47:34,482 - INFO - Creating engagement_rate
+2025-02-01 22:47:34,485 - INFO - Creating follower_growth_rate
+2025-02-01 22:47:34,488 - INFO - Creating suspicious_comment_ratio
+2025-02-01 22:47:34,492 - INFO - generating labels for the data, 
+2025-02-01 22:47:34,493 - INFO - Data preprocessing completed successfully
+2025-02-01 22:47:34,507 - INFO - usinfg standard scaler
+2025-02-01 22:47:35,349 - INFO - Processed data saved to: data/processed/processed_data_20250201_224734.csv
+2025-02-01 23:18:43,660 - INFO - Starting feature enginnering
+2025-02-01 23:18:43,739 - INFO - Creating engagement_rate
+2025-02-01 23:18:43,746 - INFO - Creating follower_growth_rate
+2025-02-01 23:18:43,749 - INFO - Creating suspicious_comment_ratio
+2025-02-01 23:18:43,752 - INFO - generating labels for the data, 
+2025-02-01 23:18:43,754 - INFO - using standard scaler
+2025-02-01 23:18:43,831 - INFO - handling imbalanced data
+2025-02-01 23:18:43,838 - ERROR -  Error found during processing: Unknown label type: continuous. Maybe you are trying to fit a classifier, which expects discrete classes on a regression target with continuous values.
+2025-02-01 23:21:32,498 - INFO - Starting feature enginnering
+2025-02-01 23:21:32,609 - INFO - Creating engagement_rate
+2025-02-01 23:21:32,615 - INFO - Creating follower_growth_rate
+2025-02-01 23:21:32,618 - INFO - Creating suspicious_comment_ratio
+2025-02-01 23:21:32,621 - INFO - generating labels for the data, 
+2025-02-01 23:21:32,632 - INFO - using standard scaler
+2025-02-01 23:21:32,734 - INFO - handling imbalanced data
+2025-02-01 23:21:32,740 - ERROR -  Error found during processing: Unknown label type: continuous. Maybe you are trying to fit a classifier, which expects discrete classes on a regression target with continuous values.
+2025-02-01 23:22:07,639 - INFO - Starting feature enginnering
+2025-02-01 23:22:07,722 - INFO - Creating engagement_rate
+2025-02-01 23:22:07,725 - INFO - Creating follower_growth_rate
+2025-02-01 23:22:07,727 - INFO - Creating suspicious_comment_ratio
+2025-02-01 23:22:07,728 - INFO - generating labels for the data, 
+2025-02-01 23:22:07,730 - INFO - using standard scaler
+2025-02-01 23:22:07,810 - INFO - handling imbalanced data
+2025-02-01 23:22:07,818 - ERROR -  Error found during processing: Unknown label type: continuous. Maybe you are trying to fit a classifier, which expects discrete classes on a regression target with continuous values.
+2025-02-01 23:24:22,628 - INFO - Starting feature enginnering
+2025-02-01 23:24:22,776 - INFO - Creating engagement_rate
+2025-02-01 23:24:22,779 - INFO - Creating follower_growth_rate
+2025-02-01 23:24:22,784 - INFO - Creating suspicious_comment_ratio
+2025-02-01 23:24:22,788 - INFO - generating labels for the data, 
+2025-02-01 23:24:22,791 - INFO - using standard scaler
+2025-02-01 23:24:22,888 - INFO - handling imbalanced data
+2025-02-01 23:24:24,020 - ERROR -  Error found during processing: module 'pandas' has no attribute 'Dataframe'
+2025-02-01 23:24:41,525 - INFO - Starting feature enginnering
+2025-02-01 23:24:41,616 - INFO - Creating engagement_rate
+2025-02-01 23:24:41,626 - INFO - Creating follower_growth_rate
+2025-02-01 23:24:41,629 - INFO - Creating suspicious_comment_ratio
+2025-02-01 23:24:41,631 - INFO - generating labels for the data, 
+2025-02-01 23:24:41,633 - INFO - using standard scaler
+2025-02-01 23:24:41,727 - INFO - handling imbalanced data
+2025-02-01 23:24:42,796 - INFO - Data processing completed successfully
+2025-02-01 23:24:43,916 - INFO - Processed data saved to: data/processed/processed_data_20250201_232442.csv
+2025-02-01 23:29:12,485 - INFO - Starting feature enginnering
+2025-02-01 23:29:12,562 - INFO - Creating engagement_rate
+2025-02-01 23:29:12,571 - INFO - Creating follower_growth_rate
+2025-02-01 23:29:12,573 - INFO - Creating suspicious_comment_ratio
+2025-02-01 23:29:12,576 - INFO - generating labels for the data, 
+2025-02-01 23:29:12,579 - INFO - using standard scaler
+2025-02-01 23:29:12,672 - INFO - handling imbalanced data
+2025-02-01 23:29:13,891 - INFO - Data processing completed successfully
+2025-02-01 23:29:15,508 - INFO - Processed data saved to: data/processed/processed_data_20250201_232913.csv
+2025-02-08 11:37:37,257 - INFO - Starting feature enginnering
+2025-02-08 11:37:37,345 - INFO - Creating engagement_rate
+2025-02-08 11:37:37,348 - INFO - Creating follower_growth_rate
+2025-02-08 11:37:37,350 - INFO - Creating suspicious_comment_ratio
+2025-02-08 11:37:37,352 - INFO - generating labels for the data, 
+2025-02-08 11:37:37,353 - INFO - using standard scaler
+2025-02-08 11:37:37,429 - INFO - handling imbalanced data
+2025-02-08 11:37:38,445 - INFO - Data processing completed successfully
+2025-02-08 11:37:40,010 - INFO - Processed data saved to: data/processed/processed_data_20250208_113738.csv

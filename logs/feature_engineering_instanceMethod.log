@@ -1,0 +1,19 @@
+2025-02-08 11:51:37,126 - INFO - Starting feature engineering
+2025-02-08 11:51:37,126 - ERROR - error found during processing : name 'data' is not defined
+2025-02-08 11:53:44,423 - INFO - Starting feature engineering
+2025-02-08 11:53:44,489 - ERROR - error found during processing : file is empty
+2025-02-08 12:07:03,523 - INFO - Starting feature engineering
+2025-02-08 12:07:03,608 - ERROR - error found during processing : 'NoneType' object has no attribute 'head'
+2025-02-08 12:11:01,337 - INFO - Starting feature engineering
+2025-02-08 12:11:01,407 - ERROR - error found during processing : file is empty
+2025-02-08 12:24:45,985 - INFO - Starting feature engineering
+2025-02-08 12:24:46,064 - ERROR - error found during processing : file is empty
+2025-02-08 12:53:10,779 - INFO - Starting feature engineering
+2025-02-08 12:53:10,881 - INFO - creating engagement rate
+2025-02-08 12:53:10,883 - INFO - creating follower growth rate
+2025-02-08 12:53:10,888 - INFO - creating suspicious comment ratio
+2025-02-08 12:53:10,892 - INFO - generating labels for the fraud detection
+2025-02-08 12:53:10,895 - INFO - applying standard scaler to numerical columns
+2025-02-08 12:53:10,944 - INFO - handling class imbalance by using SMOTE
+2025-02-08 12:53:12,330 - INFO - data processing completed successfully
+2025-02-08 12:53:13,786 - INFO - process data saved to : data/processed/processed_data_20250208_125312.csv

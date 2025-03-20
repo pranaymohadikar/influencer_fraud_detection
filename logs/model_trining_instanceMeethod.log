@@ -1,0 +1,41 @@
+2025-02-08 21:50:23,970 - INFO - latest processed file: data/processed/processed_data_20250208_125312.csv
+2025-02-08 21:54:28,152 - INFO - latest processed file: data/processed/processed_data_20250208_125312.csv
+2025-02-08 21:55:23,233 - INFO - latest processed file: data/processed/processed_data_20250208_125312.csv
+2025-02-08 21:55:23,412 - INFO - startng model training for Logistic regression
+2025-02-08 21:55:23,521 - INFO - model evaluation for Logistic regression: 
+              precision    recall  f1-score   support
+
+           0       0.95      0.92      0.93     12995
+           1       0.92      0.95      0.94     12856
+
+    accuracy                           0.94     25851
+   macro avg       0.94      0.94      0.94     25851
+weighted avg       0.94      0.94      0.94     25851
+
+2025-02-08 21:55:23,523 - ERROR - error in saving the model Logistic regression: name 'file_name' is not defined
+2025-02-08 21:58:24,332 - INFO - latest processed file: data/processed/processed_data_20250208_125312.csv
+2025-02-08 21:58:24,508 - INFO - startng model training for Logistic regression
+2025-02-08 21:58:24,605 - INFO - model evaluation for Logistic regression: 
+              precision    recall  f1-score   support
+
+           0       0.95      0.92      0.93     12995
+           1       0.92      0.95      0.94     12856
+
+    accuracy                           0.94     25851
+   macro avg       0.94      0.94      0.94     25851
+weighted avg       0.94      0.94      0.94     25851
+
+2025-02-08 21:58:24,608 - ERROR - error in saving the model Logistic regression: name 'file_name' is not defined
+2025-02-08 21:58:52,539 - INFO - latest processed file: data/processed/processed_data_20250208_125312.csv
+2025-02-08 21:58:52,724 - INFO - startng model training for Logistic regression
+2025-02-08 21:58:52,818 - INFO - model evaluation for Logistic regression: 
+              precision    recall  f1-score   support
+
+           0       0.95      0.92      0.93     12995
+           1       0.92      0.95      0.94     12856
+
+    accuracy                           0.94     25851
+   macro avg       0.94      0.94      0.94     25851
+weighted avg       0.94      0.94      0.94     25851
+
+2025-02-08 21:58:52,822 - INFO - model Logistic regression saved successfully at models/Logistic regression.pkl

@@ -1,0 +1,17 @@
+2025-02-15 13:20:09,973 - INFO - starting data ingestion pipeline
+2025-02-15 13:20:09,973 - INFO - loading raw data
+2025-02-15 13:20:10,039 - INFO - raw data loaded successfully
+2025-02-15 13:20:10,049 - INFO - splitting of the data into train and test
+2025-02-15 13:20:10,064 - INFO - data split successful
+2025-02-15 13:20:10,064 - INFO - saving th train anad test data files
+2025-02-15 13:20:10,064 - ERROR - error in saving data: makedirs() got an unexpected keyword argument 'exits_ok'
+2025-02-15 13:20:10,064 - INFO - data ingestion completed
+2025-02-15 13:20:40,043 - INFO - starting data ingestion pipeline
+2025-02-15 13:20:40,044 - INFO - loading raw data
+2025-02-15 13:20:40,107 - INFO - raw data loaded successfully
+2025-02-15 13:20:40,113 - INFO - splitting of the data into train and test
+2025-02-15 13:20:40,130 - INFO - data split successful
+2025-02-15 13:20:40,130 - INFO - saving th train anad test data files
+2025-02-15 13:20:40,321 - INFO - train data saved to: data/train/train_data.csv
+2025-02-15 13:20:40,321 - INFO - test data saved to: data/test/test_data.csv
+2025-02-15 13:20:40,321 - INFO - data ingestion completed
